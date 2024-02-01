@@ -1,0 +1,14 @@
+.DocList{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    gap: 100px;
+}
+.card{
+    width: 200px;
+    height: 250px;
+    background-color: aliceblue;
+    border: 1px solid gray;
+}
