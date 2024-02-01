@@ -13,3 +13,26 @@
     border: 1px solid gray;
     margin-top: 50px;
 }
+p{
+    font-size: 7px;
+}
+.p{
+   display: flex;
+   margin-top: 170px;
+   margin-left: 50px;
+}
+.prog{
+    display: flex;
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.list{
+    display: flex;
+    justify-content: center;
+    color: green;
+    font-size: 10px;
+}
+.cv, .cv2{
+    width: 200px;
+    height: 250px;
+}
